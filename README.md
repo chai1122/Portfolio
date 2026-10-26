@@ -20,7 +20,7 @@ At Yahoo I moved from Production Engineer I to Production Engineer II to Softwar
 | [sre-platform-lab](https://github.com/chai1122/sre-platform-lab) | A service run the production way: Docker, Helm on Kubernetes, Terraform for AWS EKS, GitHub Actions with security scans and OIDC, Prometheus/Grafana, SLO burn-rate alerts, runbooks and a postmortem | In progress, v1.0 due Nov 2026 |
 | [ops-copilot](https://github.com/chai1122/ops-copilot) | An AI operations assistant: RAG with citations, an MCP server with read-only cluster tools, an eval set, guardrails and an eval dashboard. It diagnoses failures injected into sre-platform-lab | In progress, v1.0 due Nov 2026 |
 
-*Both projects are built from public documentation only and contain no employer code or configuration.*
+
 
 ## What I work on at Yahoo
 
@@ -47,7 +47,7 @@ At Yahoo I moved from Production Engineer I to Production Engineer II to Softwar
 
 ## Education
 
-- Master's in Data Analytics, Dublin Business School, First Class Honours (1.1), 2021-2022
+- Master's in Data Analytics, Dublin Business School, First Class Honours (1:1), 2021-2022
 - Bachelor of Engineering, Computer Science, Global Academy of Technology, 2014-2018
 
 ---
